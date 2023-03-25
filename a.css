@@ -1,0 +1,56 @@
+p{
+    color: red;
+    font-size: 33px;
+    font-weight: bold;
+    font-style: initial;
+    font-family: 宋体;
+}
+
+a{
+    color: blueviolet;
+}
+
+a[href]{
+    color: rgb(8, 0, 70);
+}
+
+#p1{
+    color: aqua;
+    text-decoration: line-through;
+    text-align: left;
+    letter-spacing: 4px;
+}
+
+#ul1{
+    list-style-type:disc;
+}
+
+.pp1{
+    color: beige;
+}
+
+body{
+    background-color: rgb(221, 193, 193);
+}
+/* 夫选择器,后代选择器 后代都能选中*/
+/* 后代:儿子,孙子,重孙子 */
+div p {
+    color: red;
+}
+
+/* 只选儿子 */
+div>a{
+    color: red;
+}
+
+
+/* hover伪类选择器 */
+a:hover{
+    color: blue;
+}
+
+div{
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+}
