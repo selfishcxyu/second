@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbylw"]=self["webpackChunkbylw"]||[]).push([[622],{8622:function(t,n,u){u.r(n),u.d(n,{default:function(){return i}});u(7658);var e=function(){var t=this,n=t._self._c;return n("div",{staticClass:"container"},[n("div",{staticClass:"box"},[n("h2",[t._v("抱歉，您输入的地址没有找到")]),n("h3",[t._v("o(╥﹏╥)o")]),n("el-button",{attrs:{type:"text"},on:{click:function(n){return t.router.push("/login")}}},[t._v("点击返回主页")])],1)])},s=[],l=u(1001),r={},c=(0,l.Z)(r,e,s,!1,null,"3723f27d",null),i=c.exports}}]);
+//# sourceMappingURL=622.18f60315.js.map
